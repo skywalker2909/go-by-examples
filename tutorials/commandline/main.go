@@ -2,6 +2,10 @@ package main
 
 import (
 	"fmt"
+	/*
+		os package provides a platform independent way to access operating system
+		functionality.
+	*/
 	"os"
 )
 

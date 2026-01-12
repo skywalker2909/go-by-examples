@@ -9,8 +9,8 @@ import (
 	"log"
 	/*
 		net/http package provides http client and server implementations
-		that can be used to create an http client to send http requests
-		and an http server to serve http requests.
+		that can be used to work with different http requests and an http
+		server to serve http requests.
 	*/
 	"net/http"
 )
